@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Psychosocial Entrepreneur
+role: Life Entrepreneur
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://redeemingcommunities.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social sciences, building, assisting and empowering communities.
+bio: My research interests are approaching community development using redemptive solutions.
 
 interests:
 - Redeeming Communities
-- Providing Financial Advice
-- Victim Support
+- Advocacy
+- Communication
 
 education:
   courses:
@@ -65,4 +65,4 @@ user_groups:
 ---
 
 <br>
-Experienced in Communications, Administration, Advocacy and Mentoring, with a demonstrated history of working in both the information technology and community development sectors. Skilled in Communications Planning, Event Planning, Travel Planning, Advocacy, and Community Development. Working in the areas of both Communications and Community.
+My background experience is in Communications, Administration, Advocacy and Mentoring, working in both the information technology and community development sectors. 
