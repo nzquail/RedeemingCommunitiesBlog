@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Struggling with psychosocial issues?"
+title = "Using redemptive approaches:<br>thinking and reacting anew."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -48,4 +48,3 @@ title = "Struggling with psychosocial issues?"
   # label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-This is a collection of free resources to help you work through and overcome

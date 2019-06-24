@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Life Entrepreneur
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://redeemingcommunities.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are approaching community development using redemptive solutions.
+# bio: My research interests are approaching community development using redemptive solutions.
 
-interests:
-- Redeeming Communities
-- Advocacy
-- Communication
+# interests:
+# - Redeeming Communities
+# - Advocacy
+# - Communication
 
 education:
   courses:
