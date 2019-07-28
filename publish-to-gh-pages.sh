@@ -29,7 +29,7 @@ echo "cd'ing into public"
 cd public
 
 echo "Adding back the CNAME after deletion"
-echo binarymist.io > CNAME
+echo redeeming.community > CNAME
 
 echo "git add'ing all to staging"
 git add --all
