@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://redeeming.community/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://redeeming.community/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
