@@ -6,7 +6,7 @@ subtitle = "The story of community can be traced through the biblcial narrative,
 summary = "Redemptive Community"
 
 date = 2019-06-24T21:45:49+12:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
