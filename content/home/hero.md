@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Using redemptive approaches:<br>thinking and responding anew."
+title = "Using redemptive approaches"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -48,3 +48,4 @@ title = "Using redemptive approaches:<br>thinking and responding anew."
   # label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
+# by thinking and responding anew

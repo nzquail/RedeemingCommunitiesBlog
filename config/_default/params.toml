@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "ocean"
+color_theme = "redeemingcommunities"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "nzquail"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -98,7 +98,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["override"]
 plugins_js  = []
 
 ############################
@@ -109,7 +109,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
