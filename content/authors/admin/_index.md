@@ -65,4 +65,4 @@ user_groups:
 ---
 
 <br>
-In today's society, there is a need for a biblical perspective when facing the challenges concerning human needs and the enviroment around us. An excitement needs to rise again knowing that we can make a positive redemptive difference for the pressing issues that surround us in our communities and in our own lives. This is my journey, exploring what "redeeming community" looks like – you are welcome to join. 
+In today's society, there is a need for a biblical perspective when facing the challenges concerning human needs and the environment around us. An excitement needs to rise again; knowing that we can make a positive redemptive difference for the pressing issues that surround us in our communities and in our own lives. This is my journey, exploring what "redeeming communities" looks like – you are welcome to join me. 
