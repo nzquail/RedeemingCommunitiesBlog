@@ -18,7 +18,7 @@ organizations:
   url: "https://redeemingcommunities.com"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests are approaching community development using redemptive solutions.
+bio: If you are having a bad day, find one good thing in it - this is a redemptive mindset.
 
 # interests:
 # - Redeeming Communities
@@ -65,4 +65,4 @@ user_groups:
 ---
 
 <br>
-My background experience is in Communications, Administration, Advocacy and Mentoring, working in both the information technology and community development sectors. 
+In today's society, there is a need for a biblical perspective when facing the challenges concerning human needs and the enviroment around us. An excitement needs to rise again knowing that we can make a positive redemptive difference for the pressing issues that surround us in our communities and in our own lives. This is my journey, exploring what "redeeming community" looks like – you are welcome to join. 
