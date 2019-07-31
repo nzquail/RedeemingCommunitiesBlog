@@ -20,20 +20,47 @@
   
   <url>
     <loc>https://redeemingcommunities.com/authors/admin/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/authors/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/categories/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/post/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/categories/redemption/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/post/redemptive-imagination/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/redemptive/</loc>
+    <lastmod>2019-07-31T21:45:49+12:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,11 +70,6 @@
   
   <url>
     <loc>https://redeemingcommunities.com/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
