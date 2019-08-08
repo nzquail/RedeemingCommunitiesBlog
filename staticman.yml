@@ -59,7 +59,7 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    apiKey: "DFseJ5ZaHv5SZLDUr9+2GK/UyKIApTDRWwLcR/eV/JlT2FyHJ1rBmK01U9oDjkwLvuG/j8ScH9P8oTQ7hcpa4RBzvc8r80zQvZK5EkoSjbFR2ntHeZiDT2hWlVC4+EIkDBUSpVMo+WErYFGrNj6YvfFRtIwYuPQUf5OySrKUK10="
+    apiKey: "Gu9F9vlmDEIr6XfNnCFv5JRhdAjpMrK2q7DCaDvPaMiynQM5z5Y1r93tVYWSzk5mDQHaXoaP8bCvnTtlLd0M4XyKVQjTQRdinx0sGb720FxP6vF0eOfJlzLeAVSHfNphWrFDdyRWO9sGycPVyonPuqxzXuDt7t5EYLr/v8q5gr0="
 
     # (!) ENCRYPTED
     #
@@ -101,6 +101,6 @@ blogSubscribers:
     email: md5
   notifications:
     enabled: true
-    apiKey: "DFseJ5ZaHv5SZLDUr9+2GK/UyKIApTDRWwLcR/eV/JlT2FyHJ1rBmK01U9oDjkwLvuG/j8ScH9P8oTQ7hcpa4RBzvc8r80zQvZK5EkoSjbFR2ntHeZiDT2hWlVC4+EIkDBUSpVMo+WErYFGrNj6YvfFRtIwYuPQUf5OySrKUK10="
+    apiKey: "Gu9F9vlmDEIr6XfNnCFv5JRhdAjpMrK2q7DCaDvPaMiynQM5z5Y1r93tVYWSzk5mDQHaXoaP8bCvnTtlLd0M4XyKVQjTQRdinx0sGb720FxP6vF0eOfJlzLeAVSHfNphWrFDdyRWO9sGycPVyonPuqxzXuDt7t5EYLr/v8q5gr0="
     domain: "teAYO9ZojECy2rWX28Kxb6ZKK2s/aDxb+f0DEL9YgleLZmkhaP0mZXqWN9Nd4Pi1qE9axdQr22rtofIrUVkdAdF3XedQFU4VayNf1A7M7ZKNeZdq+KZhBykxFPo7r4bKD/J2YetzmcJHsSGTonOqYsssZLEFFCoc/ktbop1d2No="
 
