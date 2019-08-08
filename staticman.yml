@@ -64,7 +64,7 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    domain: "VHI9cXWvBkbbI41HuE9YzLo7PPwQ/Hej8eaUxyADmA9wyvR810a6fGQ+xqw6DcsCVIVqbd6hvoy6fIcxQHp7begCTThENFLYBeQJHqDbzWEYKtdy1B/05rgaBFdRxNdLc5/QbZUBYC0+4ZAQf1OMYBIvIiIwc3EnZxi+fbcnGZQ="
+    domain: "teAYO9ZojECy2rWX28Kxb6ZKK2s/aDxb+f0DEL9YgleLZmkhaP0mZXqWN9Nd4Pi1qE9axdQr22rtofIrUVkdAdF3XedQFU4VayNf1A7M7ZKNeZdq+KZhBykxFPo7r4bKD/J2YetzmcJHsSGTonOqYsssZLEFFCoc/ktbop1d2No="
 
   # (*) REQUIRED
   #
@@ -102,5 +102,5 @@ blogSubscribers:
   notifications:
     enabled: true
     apiKey: "DFseJ5ZaHv5SZLDUr9+2GK/UyKIApTDRWwLcR/eV/JlT2FyHJ1rBmK01U9oDjkwLvuG/j8ScH9P8oTQ7hcpa4RBzvc8r80zQvZK5EkoSjbFR2ntHeZiDT2hWlVC4+EIkDBUSpVMo+WErYFGrNj6YvfFRtIwYuPQUf5OySrKUK10="
-    domain: "VHI9cXWvBkbbI41HuE9YzLo7PPwQ/Hej8eaUxyADmA9wyvR810a6fGQ+xqw6DcsCVIVqbd6hvoy6fIcxQHp7begCTThENFLYBeQJHqDbzWEYKtdy1B/05rgaBFdRxNdLc5/QbZUBYC0+4ZAQf1OMYBIvIiIwc3EnZxi+fbcnGZQ="
+    domain: "teAYO9ZojECy2rWX28Kxb6ZKK2s/aDxb+f0DEL9YgleLZmkhaP0mZXqWN9Nd4Pi1qE9axdQr22rtofIrUVkdAdF3XedQFU4VayNf1A7M7ZKNeZdq+KZhBykxFPo7r4bKD/J2YetzmcJHsSGTonOqYsssZLEFFCoc/ktbop1d2No="
 
