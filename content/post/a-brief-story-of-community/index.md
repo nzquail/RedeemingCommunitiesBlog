@@ -2,6 +2,9 @@
 title = "A Brief Story of Community"
 subtitle = "The story of community can be traced through the biblcial narrative, and God's redemptive intent for our communities."
 
+# By default the submission of new comments is enabled.
+#comments = true
+
 # Add a summary to display on homepage (optional).
 summary = "Redemptive Community"
 

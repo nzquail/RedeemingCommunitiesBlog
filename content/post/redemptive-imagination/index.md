@@ -2,6 +2,9 @@
 title = "Redemptive Imagination"
 subtitle = "We are not spectators, we are part of the race with a specific role in redemption"
 
+# By default the submission of new comments is enabled.
+#comments = true
+
 # Add a summary to display on homepage (optional).
 summary = "If we cultivate a redemptive imagination, then we can have a new imaginative possibility for what God would have for us in this very moment."
 
