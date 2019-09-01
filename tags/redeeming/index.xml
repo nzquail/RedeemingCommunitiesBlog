@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Redeeming Communities</title>
-    <link>https://redeemingcommunities.com/post/</link>
-    <description>Recent content in Posts on Redeeming Communities</description>
+    <title>redeeming on Redeeming Communities</title>
+    <link>https://redeemingcommunities.com/tags/redeeming/</link>
+    <description>Recent content in redeeming on Redeeming Communities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Redeeming Communities</copyright>
     <lastBuildDate>Sun, 01 Sep 2019 11:15:49 +1200</lastBuildDate>
     
-	<atom:link href="https://redeemingcommunities.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redeemingcommunities.com/tags/redeeming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://redeemingcommunities.com/post/are-we-fully-partaking/</guid>
       <description>By remaining passive in our salvation, we minimise God’s ongoing relationship towards creation, and his concern with mankind.</description>
-    </item>
-    
-    <item>
-      <title>Redemptive Imagination</title>
-      <link>https://redeemingcommunities.com/post/redemptive-imagination/</link>
-      <pubDate>Wed, 31 Jul 2019 21:45:49 +1200</pubDate>
-      
-      <guid>https://redeemingcommunities.com/post/redemptive-imagination/</guid>
-      <description>If we cultivate a redemptive imagination, then we can have a new imaginative possibility for what God would have for us in this very moment.</description>
     </item>
     
   </channel>
