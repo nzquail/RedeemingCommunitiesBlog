@@ -1,6 +1,6 @@
 +++
 title = "Redemptive Imagination"
-subtitle = "We are not spectators, we are part of the race with a specific role in redemption"
+subtitle = "If we cultivate a redemptive imagination, then we can have a new imaginative possibility for what God would have for us in this very moment."
 
 # By default the submission of new comments is enabled.
 #comments = true
@@ -9,7 +9,7 @@ subtitle = "We are not spectators, we are part of the race with a specific role 
 summary = "If we cultivate a redemptive imagination, then we can have a new imaginative possibility for what God would have for us in this very moment."
 
 date = 2019-07-31T21:45:49+12:00
-draft = false 
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
