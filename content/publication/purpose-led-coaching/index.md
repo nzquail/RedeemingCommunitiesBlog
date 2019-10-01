@@ -16,13 +16,13 @@ publishDate: "2019-10-01T00:00:00Z"
 #publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Todo: Add a phrase"
-publication_short: "Todo: Add a phrase"
+publication: "Blog and Resources"
+publication_short: "The Coaching Room"
 
 # abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Leanne has a wealth of experience in working along side many types of people.
+summary: Leanne has a wealth of experience working along-side many people from all walks of life.
 
 tags:
 #- Source Themes
