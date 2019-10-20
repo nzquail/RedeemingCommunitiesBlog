@@ -20,7 +20,74 @@
   
   <url>
     <loc>https://redeemingcommunities.com/authors/admin/</loc>
-    <lastmod>2019-09-01T11:15:49+12:00</lastmod>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/authors/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/categories/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/categories/community/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/categories/life-coaching/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/post/living-without-purpose/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/publication/panning-for-gold/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/post/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/publication/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/community/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/purpose/</loc>
+    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/publication/the-coaching-room/</loc>
+    <lastmod>2019-10-17T02:45:49+12:00</lastmod>
   </url>
   
   <url>
@@ -29,30 +96,7 @@
   </url>
   
   <url>
-    <loc>https://redeemingcommunities.com/authors/</loc>
-    <lastmod>2019-09-01T11:15:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/categories/</loc>
-    <lastmod>2019-09-01T11:15:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/post/</loc>
-    <lastmod>2019-09-01T11:15:49+12:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://redeemingcommunities.com/categories/redemption/</loc>
-    <lastmod>2019-09-01T11:15:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/tags/</loc>
     <lastmod>2019-09-01T11:15:49+12:00</lastmod>
     <priority>0</priority>
   </url>
@@ -83,10 +127,6 @@
   <url>
     <loc>https://redeemingcommunities.com/publication_types/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/publication/</loc>
   </url>
   
 </urlset>

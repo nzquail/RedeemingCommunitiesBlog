@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life Coaching on Redeeming Communities</title>
+    <link>https://redeemingcommunities.com/categories/life-coaching/</link>
+    <description>Recent content in Life Coaching on Redeeming Communities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Redeeming Communities</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 16:45:49 +1200</lastBuildDate>
+    
+	<atom:link href="https://redeemingcommunities.com/categories/life-coaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Panning For Gold</title>
+      <link>https://redeemingcommunities.com/publication/panning-for-gold/</link>
+      <pubDate>Thu, 17 Oct 2019 16:45:49 +1200</pubDate>
+      
+      <guid>https://redeemingcommunities.com/publication/panning-for-gold/</guid>
+      <description>A Story About Finding Your Purpose in Life.</description>
+    </item>
+    
+  </channel>
+</rss>
