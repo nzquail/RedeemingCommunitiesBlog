@@ -11,8 +11,8 @@ a, h3.article-title a:hover {
 }
 
 #hero.home-section {
-   background-size: 60%;
-   background-repeat: repeat-x;
+   background-size: 100%;
+   background-repeat: no-repeat;
    background-position-x: 50%;
    background-position-y: 2em;
    background-attachment: fixed;

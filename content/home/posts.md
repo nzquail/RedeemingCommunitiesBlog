@@ -66,6 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-### Using redemptive approaches
-
-#### by thinking and responding anew
+##### 
+Using a _redemptive approach by thinking and responding anew_, can help us respond to the world's pressing issues with action and hope. Let's learn about how the Kingdom of God can bring relief to the world, that groans and weeps for redemption.

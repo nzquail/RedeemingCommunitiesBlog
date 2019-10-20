@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Transforming Lives, One By One"
+title = "<br>Transforming Lives - One By One<br><br><br>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -17,15 +17,15 @@ title = "Transforming Lives, One By One"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#000"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "headers/header_page.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true

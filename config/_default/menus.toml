@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Life Coaching"
-  url = "#services"
+  url = "#featured"
   weight = 20
 
 [[main]]

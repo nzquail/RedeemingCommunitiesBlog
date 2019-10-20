@@ -3,11 +3,11 @@ title: "Life Coaching Resources"
 authors:
 - admin
 #- Robert Ford
-date: "2019-10-01T00:00:00Z"
+date: "2019-10-17T02:45:49+12:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2019-10-17T02:45:49+12:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2019-10-01T00:00:00Z"
 
 # Publication name and optional abbreviated publication name.
 publication: "Blog and Resources"
-publication_short: "The Coaching Room"
+publication_short: "Helping you to find your purpose and possibilities"
 
 # abstract: 
 
@@ -30,13 +30,13 @@ tags:
 featured: true
 
 links:
-- icon: lightbulb
-  icon_pack: far
-  name: Leanne's Insights
+- icon: book-reader
+  icon_pack: fas
+  name: Stories
   url: https://#
 - icon: tools
   icon_pack: fas
-  name: Leanne's Workshops
+  name: Tools
   url: https://#
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: '#'
@@ -48,16 +48,16 @@ links:
 #url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `"featured.jpg/png"` to your page's folder. 
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "sample.png"`.
 header:
-  image: "headers/publications-selected-books.png"
+  image: "headers/publication-the-coachingroom.jpg"
   #caption: "My caption :smile:"
 
 # Associated Projects (optional).
@@ -77,23 +77,24 @@ slides: ""
 
 ---
 
-<!--
+
 <div class="isotope projects-container">
 
 <div class="project-card project-item isotope-item">
   <div class="card"> 
-    <a href="/publication/cloud-security/" title="Cloud Security - Quick Reference" class="card-image hover-overlay">
-      <img src="/img/publication/title_page_cloud-security_720.jpg" alt="Cloud Security - Quick Reference" class="img-responsive kims-selected-publications">
+    <a href="/publication/panning-for-gold/" title="Panning For Gold" class="card-image hover-overlay">
+      <img src="../panning-for-gold/featured.png" alt="Panning For Gold" class="img-responsive kims-selected-publications">
     </a> 
     <div class="card-text">
-      <h4><a href="/publication/cloud-security/" >Cloud Security &nbsp; - &nbsp; Quick Reference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+      <h4><a href="../panning-for-gold/" >Panning For Gold</a></h4>
       <div class="card-desription">
-        <p>Providing insight into the shared responsibility model of the Cloud. Making sure your security stature in the Cloud is where you need it to be? Providing the architectural and technical direction required to create your secure Cloud environment. <b>This entire content is included in The VPS chapter of Holistic InfoSec for Web Developers F1.</b></p>
+        <p>A Story About Finding Your Purpose in Life.</b></p>
       </div>
     </div>
   </div>
 </div>
 
+<!--
 <div class="project-card project-item isotope-item">
   <div class="card"> 
     <a href="/publication/docker-security/" title="Docker Security - Quick Reference" class="card-image hover-overlay">
@@ -149,7 +150,7 @@ slides: ""
     </div>
   </div>
 </div> 
-
+-->
 </div>
 
--->
+
