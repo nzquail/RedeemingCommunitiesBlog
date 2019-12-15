@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Life Coaching"
-  url = "#featured"
+  name = "Blog"
+  url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Blog"
-  url = "#posts"
+  name = "Life Coaching"
+  url = "#featured"
   weight = 30
 
 [[main]]

@@ -42,7 +42,7 @@ subtitle = "Life Coaching"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "#72a581"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
