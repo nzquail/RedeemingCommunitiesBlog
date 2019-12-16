@@ -33,11 +33,11 @@ links:
 - icon: book-reader
   icon_pack: fas
   name: Stories
-  url: https://#
+  url: /publication/the-coaching-room/
 - icon: tools
   icon_pack: fas
   name: Tools
-  url: https://#
+  url: /publication/the-coaching-room/
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: '#'
 #url_dataset: '#'
