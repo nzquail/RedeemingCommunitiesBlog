@@ -20,29 +20,51 @@
   
   <url>
     <loc>https://redeemingcommunities.com/authors/admin/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/authors/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/categories/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/publication/effective-life-change/</loc>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/categories/life-coaching/</loc>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/publication/</loc>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/</loc>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://redeemingcommunities.com/tags/purpose/</loc>
+    <lastmod>2019-12-16T23:45:26+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://redeemingcommunities.com/categories/community/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/categories/life-coaching/</loc>
     <lastmod>2019-10-17T16:45:49+12:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,24 +85,7 @@
   </url>
   
   <url>
-    <loc>https://redeemingcommunities.com/publication/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/tags/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://redeemingcommunities.com/tags/community/</loc>
-    <lastmod>2019-10-17T16:45:49+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redeemingcommunities.com/tags/purpose/</loc>
     <lastmod>2019-10-17T16:45:49+12:00</lastmod>
     <priority>0</priority>
   </url>
