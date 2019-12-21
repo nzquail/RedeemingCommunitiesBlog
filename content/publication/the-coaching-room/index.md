@@ -94,20 +94,21 @@ slides: ""
   </div>
 </div>
 
-<!--
 <div class="project-card project-item isotope-item">
   <div class="card"> 
-    <a href="/publication/docker-security/" title="Docker Security - Quick Reference" class="card-image hover-overlay">
-      <img src="/img/publication/title_page_docker-security_720.png" alt="Docker Security - Quick Reference" class="img-responsive kims-selected-publications">
+    <a href="/publication/effective-life-change/" title="Effective Life Change" class="card-image hover-overlay">
+      <img src="../effective-life-change/featured.png" alt="Effective Life Change" class="img-responsive kims-selected-publications">
     </a> 
     <div class="card-text">
-      <h4><a href="/publication/docker-security/" >Docker Security &nbsp; - &nbsp; Quick Reference &nbsp;&nbsp;&nbsp;</a></h4>
+      <h4><a href="../effective-life-change/" >Effective Life Change</a></h4>
       <div class="card-desription">
-        <p>The security defaults of Docker are established to get you up and running (“just work”) quickly, rather than being the most secure. In this book we improve upon many default configurations. Including knowledge gleaned from the Docker Security Team Lead. <b>This entire content is included in The VPS chapter of Holistic InfoSec for Web Developers F1.</b></p>
+        <p>It starts with having a purposeful conversation with someone.</b></p>
       </div>
     </div>
   </div>
 </div>
+
+<!--
 
 <div class="project-card project-item isotope-item">
   <div class="card"> 
