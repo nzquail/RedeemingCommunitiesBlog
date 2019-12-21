@@ -45,53 +45,48 @@ categories = ["Life Coaching"]
 
 +++
 
+Three of the most common underlying questions people have are:
 
+* What is my purpose in life?
+* What was I created for?
+* Does my life have meaning?
 
+The answers are positive to all three of these questions! And effective coaching can help with this!
 
+>Why is coaching good for you? It helps us to find our WHY (purpose), and understand that God created and equipped us for a SPECIFIC PURPOSE, which is unique to each of US, and having the confidence that HE will guide and empower us to fulfil our destiny.
 
-## Effective Life Change
+There are some differences between secular and Christian coaching. Secular coaching will focus on your inner strengths and encourage you to do what you "feel" is right.
 
+However, Christian life coaching is based on Gods word, which helps you to define your success as God sees it, not how the world sees it. Christian life coaching also enables you to establish, grow and achieve your goals without compromising your Christian values, operating from a foundation of faith in God. Also led by the prompting of the Holy Spirit enabling you to walk the unique path he has just for you.
 
-
-The deep questions people have on the inside are: 
-- What is my purpose in life?
-- What was I created for? 
-- Does my life have meaning? 
-
-The answer is yes! And effective coaching can help with this!
-
->Why is coaching good for you? It helps us to find our WHY (purpose), and understand that God created and equipped us for a SPECIFIC PURPOSE, which is unique to US, and having the confidence that HE will guide and empower us to fulfil our destiny.
-
-
-There are some differences between secular coaching and christian coaching. Secular coaching will focus on your inner strengths and encourage you to do what you feel is right.
-
-However, Christian life coaching is based on Gods word, helps you to define your success as God sees it, not how the world sees it. Enables you to grow and achieve your goals without compromising your Christian values and operates from a foundation of faith in God. Being led by the leading and prompting of the Holy Spirit to direct your path.
-
+&nbsp;
 
 ## Keys to lasting change when using a biblical approach
 
 ### Seeing Yourself How God Sees You 
 
-When you see yourself as God sees you will be able to break the limiting beliefs that you have of yourself that get in the way. It will also help you close the gap between where you are in life now and where you want to be.
+When you see yourself as God sees you, you will be able to break the mental constraints that you have of yourself that hinder you. Seeing yourself through God's eyes also helps to close the gap between where you are in life to where you want to be.
 
 ### Changing your beliefs about yourself and circumstances
 
-When you replace the lies you believe about yourself and your life circumstances with life-giving biblical truth, then your whole perspective changes about yourself and how you can live your life. 
+When you replace the murky truths you believe about yourself and your life circumstances with life-giving biblical truths, your entire perspective about yourself and how you can live your life can be improved.
 
 ### Be transformed by the renewing of your mind
 
-By using scripture, this will help you to become transformed and renewed as we use the truth of Gods word, and by speaking the truth. When we are in agreement with God, the we are able to break free of the things that have been holding us back. Knowing Gods truth helps you:
+Romans 12:2 says _"Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will"_
 
-* change what you believe, then your thoughts change
-* change what you think, then your feelings change 
-* see things differently then way you behave changes
+By leveraging God's word, we have the power to be transformed and the ability to break free from the things that have been holding us back. Knowing Gods truths about us helps us:
 
-When your mind has been renewed with God’s word, you will find that yourself walking in a new found confidence and having the courage to follow your God given dreams.
+* Change what you believe, then your thoughts will change
+* Change what you think, then your feelings will change
+* As our feelings change, our behaviour changes
 
-Coaching helps us to take a step back, examine our lives and to explore alternatives or make adjustments that may be needed, so you can:
+As your mind is renewed by God’s word, you will find yourself walking in a new found confidence, and having the courage to follow your God given dreams.
 
-* Discover your life purpose 
-* Restore the balance needed in different areas in your life
+Coaching helps us to take a step back, examine our lives, and to explore alternatives, or make adjustments that may be needed, so you can:
+
+* Discover your life purpose
+* Restore the balance needed in different areas of your life
 * Get a fresh perspectives on personal challenges and opportunities
 * Enhance your thinking and decision making skills
 * Build your confidence
@@ -100,19 +95,17 @@ Coaching helps us to take a step back, examine our lives and to explore alternat
 * Improve your relationships
 * Develop an effective plan of action or goals
 
+Consider these questions to discover whether you are ready to or need to be coached:
 
-Consider these question to discover whether you are ready to or need to be coached:
+* What concerns you?
+* What would you like to work on?
+* What would you like to happen?
+* Where are you in your life at present?
 
-* What concerns you? 
-* What would you like to work on? 
-* What would you like to happen? 
-* Where are you in your life at present? 
+Most of these questions fall within the categories of  **family**, **career**, **health**, **finance**, **relationships**, etc. Where we look at the **issues**, bring **awareness**, find or renew a **vision**, create a **strategy**, have a **plan of action** and find ways to **remove the obstacles**.
 
-Most of these questions fall within the categories of  **family**, **career**, **health**, **finance**, **relationships** etc. 
-Where we look at the **issues**, bring **awareness**, find or renew a **vision**, create a **strategy**, have a **plan of action** and find ways to **remove the obstacles**.
+There are many tools available to help you focus on and achieve your goals - [Reach out to me](/#contact) for assistance. I'd love to help you.
 
-
-There are all sort of _tools_ available to help you to focus and achieve your goals - which I will add.
 _Remember_ "coaching is having a purposeful conversation with someone". 
 
 
